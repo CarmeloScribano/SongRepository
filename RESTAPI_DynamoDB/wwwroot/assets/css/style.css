@@ -1,0 +1,67 @@
+﻿body {
+    background-color: #141415;
+}
+
+div.topbar {
+    background-color: #0A0A0A !important;
+}
+
+p, h1, h2, h3, h4, span, label {
+    color: #E0E0E2 !important;
+}
+
+thead, track, td, th, a, .try-out__btn, .parameter__name, .parameter__type, .parameter__in, .btn-done {
+    color: #CACACE !important;
+}
+
+select {
+    color: #E0E0E2 !important;
+    border-color: #85EA2D !important;
+    background-color: rgb(48,93,9,0.1) !important;
+}
+
+.opblock-summary-description {
+    color: #E0E0E2 !important;
+}
+
+.opblock-section-header {
+    background-color: #141415 !important;
+}
+
+.opblock-summary-get > button > span.opblock-summary-method {
+    background-color: #2B4162 !important;
+}
+
+.opblock-summary-post > button > span.opblock-summary-method {
+    background-color: #0B6E4F !important;
+}
+
+.opblock-summary-put > button > span.opblock-summary-method {
+    background-color: #FA9F42 !important;
+}
+
+.opblock-summary-delete > button > span.opblock-summary-method {
+    background-color: #721817 !important;
+}
+
+.models {
+    border-color: #85EA2D !important;
+    background-color: rgb(48,93,9,0.1) !important;
+}
+
+.model-box {
+    background-color: #333333 !important;
+}
+
+.auth-wrapper, .scheme-container {
+    background-color: #141415 !important;
+}
+
+.modal-ux, .modal-ux-header {
+    background-color: #141415 !important;
+    border-color: #85EA2D !important;
+}
+
+.unlocked, .locked, .arrow {
+    fill: rgb(224, 224, 226) !important;
+}

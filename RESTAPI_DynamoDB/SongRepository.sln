@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongRepository", "SongRepository.csproj", "{5244A040-0DB9-4935-918D-8A3F0A0E9A67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongRepository.Test", "..\RESTAPI_DynamoDB.Test\SongRepository.Test.csproj", "{1507F3A5-3CAC-4683-B743-0D0FF0031EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5244A040-0DB9-4935-918D-8A3F0A0E9A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5244A040-0DB9-4935-918D-8A3F0A0E9A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5244A040-0DB9-4935-918D-8A3F0A0E9A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5244A040-0DB9-4935-918D-8A3F0A0E9A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1507F3A5-3CAC-4683-B743-0D0FF0031EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1507F3A5-3CAC-4683-B743-0D0FF0031EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1507F3A5-3CAC-4683-B743-0D0FF0031EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1507F3A5-3CAC-4683-B743-0D0FF0031EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EF597DD-20A1-4DC1-B3AB-C2F0B3162BCC}
+	EndGlobalSection
+EndGlobal
